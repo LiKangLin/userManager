@@ -13,7 +13,7 @@ Requirements
 * Go(v1.13)
 * Mysql(v5.5+)
 * Redis(v3.4+)
-* go moudle
+* go module
 
 Installation
 ------------
