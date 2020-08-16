@@ -1,0 +1,2 @@
+2020/08/16 22:09:51.337 [I] [main.go:48]  init successfully!
+2020/08/16 22:09:51.337 [I] [userserver.go:136]  start to listen on localhost:9999
